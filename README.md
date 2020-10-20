@@ -1,0 +1,2 @@
+# QRCode
+Gerar QR Code
