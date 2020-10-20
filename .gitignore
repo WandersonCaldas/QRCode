@@ -1,0 +1,6 @@
+/.vs
+/packages
+/eSrc/obj
+/eSrc/*.user
+/eSrc/bin/eSrc.dll
+/eSrc/bin/eSrc.pdb
